@@ -1,3 +1,4 @@
+# References: https://docs.djangoproject.com/en/4.1/intro/tutorial04/
 from django.urls import path
 
 from . import views
